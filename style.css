@@ -1,0 +1,136 @@
+
+.button
+{
+	text-decoration: none;
+	color: #535353 ;
+	margin-right: 10px;
+	font-size: 15px;
+
+}
+
+nav
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+	justify-content: right;
+	align-items: right;
+	margin-right: 10px;
+
+
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+section
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+    justify-content: center;
+	align-items: center;
+	margin-top: 150px;
+ }
+
+ .form-group
+ {
+ 	display: flex;
+ 	flex-direction: column;
+ 	width: 30%;
+ }
+
+ input
+ {
+    margin-top: 20px;
+ 	border-radius: 50px;
+ 	padding: 15px;
+ 	border: 1px solid#d1d1d1;
+ 	width: 100%;	
+ }
+ 	
+ i
+ {
+ 	float: right;
+ 	font-size: 20px;
+ 	margin-top: -35px;
+ 	margin-right: -15px;
+ 	cursor: pointer;
+	position: relative;
+ }
+
+button
+{
+margin-top: 40px;
+	text-decoration: none;
+	color: #535353;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+.header
+{
+	padding: 10px 20px;
+	margin-right: 10px;
+	background-color: #F6F6F6;
+}
+	
+	
+.English
+{
+	color: #2454AB ;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.dispo
+{
+	color: #8F8F8F;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+.button2
+{
+	text-decoration: none;
+}
+
+footer
+{
+
+	background-color: #F7F7F7;
+	margin-top: 360px;
+	color: #8F8F8F ;
+	
+	
+	
+}
+
+hr 
+{
+	color: #FAF5F5;
+}
+
+.buttan
+{
+	text-decoration: none;
+	color: #8F8F8F;
+	padding-right: 20px;
+	justify-content: space-between;
+	margin-left: 38px;
+}
+
+.feuille
+{
+	height: 13px;
+	width: 13px;
+}
+
+.buttan, .feuille
+{
+	
+	flex-direction: row;
+}
